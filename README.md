@@ -1,14 +1,17 @@
 **Overview**
 
-This is the script that helps daily check in Hilanet make easyer.
+This is the script that helps daily check in Hilanet make easier.
 Just run it!
 
 **Installation**
-1. Clone the repo 
+1. Create a new directory on your computer
+   
+2. Clone the repo in this directory
 
 `   git clone https://github.com/olgachertkova/hilanet_check_in.git
 `
-2. Create virtual environment (if it is needed)
+
+3. Create virtual environment (if it is needed)
  
 `cd hilanet_check_in
 `
@@ -24,5 +27,7 @@ Just run it!
 `
 
 **Usage:** 
+
+Run script by command:
 
 `pytest --user='[user_number]' --password='[user_password]' `
