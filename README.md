@@ -21,9 +21,15 @@ Just run it!
 
 `source venv/bin/activate
 `
-3. Install dependencies
+
+4. Install dependencies
 
 `pip3 install -r requirements.txt
+`
+
+5. Install Chromium browser for script running
+
+` playwright install chromium
 `
 
 **Usage:** 
